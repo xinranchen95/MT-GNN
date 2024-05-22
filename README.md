@@ -13,3 +13,5 @@ dgl 1.1.3
 scipy 1.11.4  
 seaborn 0.13.2  
 matplotlib 3.8.0  
+# Installation of dependence
+We recommend using Anaconda to prepare dependence as some packages are built-in Anaconda base environment, which are not mentioned in the dependence section. 
