@@ -1,0 +1,6 @@
+number,DG_num,RX_num,DG,RX,catalyst,base,ligand,solvent,addictive,tag,yield,DOI
+0,1,2,CN1C2=C(C(O)=O)C=CC=C2C=C1,IC1=CC=C(OC)C=C1,F[B-](F)(F)F.F[B-](F)(F)F.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.[Ru+2],[O-]C([O-])=O.[K+].[K+],,N#CC(C)(C)C,[K]OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,4,0.92,10.1002/chem.201605068
+1,2,2,CN1C2=CC(C(O)=O)=CC=C2C=C1,IC1=CC=C(OC)C=C1,F[B-](F)(F)F.F[B-](F)(F)F.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.[Ru+2],[O-]C([O-])=O.[K+].[K+],,N#CC(C)(C)C,[K]OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,4,0.82,10.1002/chem.201605068
+2,3,2,CN1C2=CC=CC(C(O)=O)=C2C=C1,IC1=CC=C(OC)C=C1,F[B-](F)(F)F.F[B-](F)(F)F.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.[Ru+2],[O-]C([O-])=O.[K+].[K+],,N#CC(C)(C)C,[K]OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,4,0.7,10.1002/chem.201605068
+3,4,2,CN1C2=CC=C(C(O)=O)C=C2C=C1,IC1=CC=C(OC)C=C1,F[B-](F)(F)F.F[B-](F)(F)F.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.N#CC(C)(C)C.[Ru+2],[O-]C([O-])=O.[K+].[K+],,N#CC(C)(C)C,[K]OC(C(F)(F)F)(C(F)(F)F)C(F)(F)F,4,0.88,10.1002/chem.201605068
+4,5,1,CC(C(OCC)=O)(C)C1=CN(C2=NC=CC=N2)C3=CC=CC=C31,BrC(C)(C)C(OCC)=O,CC1=CC=C(C=C1)C(C)C.CC2=CC=C(C=C2)C(C)C.[Ru+2].[Cl-].[Cl-].[Ru+2].[Cl-].[Cl-],[K]OC(C)=O,,C1COCCO1,[H]OC(C)=O,1,0.96,10.1021/acscatal.7b00038
