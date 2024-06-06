@@ -24,4 +24,4 @@ matplotlib 3.8.0
 # Installation of dependence
 We recommend using Anaconda for preparing the dependence as some packages are built-in Anaconda base environment, which are not mentioned in the dependence section. 
 # Demo
-The Jupyter notebook demo.ipynb in the folder of MTGNN shows an example of running the MT-GNN model with ruthenium-catalyzed C-H functionalization dataset.
+The Jupyter notebook demo.ipynb in the folder of MultiTaskGNN shows an example of running the MT-GNN model with ruthenium-catalyzed C-H functionalization dataset.
