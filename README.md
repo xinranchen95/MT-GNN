@@ -1,7 +1,7 @@
 # MT-GNN
 This is a repository for the paper entitled "Integrating Multi-Task Graph Neural Network and DFT Calculations for Site-Selectivity Prediction of Arenes and Mechanistic Knowledge Generation"
 # Introduction
-A multi-task learning graph neural network was developed to predict the challenging site-selectivity of ruthenium-catalyzed C-H functionalization of arenes. The  ruthenium-catalyzed C-H functionalization dataset was collected manually including 241 individual reactions. Two key design elements facilitate site-selectivity prediction: the mechanistically informed reaction graph and the multi-task architecture. Two additional test set (experimental and out-of-sample test) were prepared to validate the extrapolative ability of the MT-GNN model.
+A multi-task learning graph neural network was developed to predict the challenging site-selectivity of ruthenium-catalyzed C-H functionalization of arenes. The  ruthenium-catalyzed C-H functionalization dataset was collected manually including 256 individual reactions. Two key design elements facilitate site-selectivity prediction: the mechanistically informed reaction graph and the multi-task architecture. Two additional test set (experimental and out-of-sample test) were prepared to validate the extrapolative ability of the MT-GNN model.
 ## Mechanistic-informed reaction graph
 For a better reaction representation, the mechanistic information is embedded to the reactive atoms of the two substrates. Through message passing, the two substrate graphs are condensed to two virtual nodes. Together with other four reaction component nodes (catalyst, solvent, ligand and additive), a reaction graph is completed.
 
