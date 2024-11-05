@@ -5,9 +5,7 @@ A multi-task learning graph neural network was developed for the prediction of t
 ## Mechanistic-informed reaction graph
 For a better reaction representation, the mechanistic information is embedded to the reactive atoms of the two substrates. Through message passing, the two substrate graphs are condensed to two virtual nodes. Together with other four reaction component nodes (catalyst, solvent, ligand and additive), a reaction graph is completed.
 
-<div style="text-align: center;">
-                                                        <img src="pictures/1.png" alt="image1" style="width:500px;"/>
-</div>
+<img src="pictures/1.png" alt="image1" style="width:500px;" align="middle"/>
 
 ## Multi-task architecture
 The site-selectivity classification task is optimized alongside with two molecular property regression tasks of reaction substrates (arene and electrophile). These two regression tasks which is related to the site-selectivity aim to assisted the classification task by knowledge acquisition during the simultaneous learning.
